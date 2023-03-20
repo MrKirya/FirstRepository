@@ -2,3 +2,4 @@ print ("Some string");
 print ();
 12345
 wooow
+GoodBye ^_^
